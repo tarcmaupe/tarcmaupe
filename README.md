@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=tarcmaupe&theme=react&hide_border=true" /> <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tarcmaupe&theme=react&hide_border=truet&langs_count=10" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=tarcmaupe&theme=react&hide_border=true" /> 
 </p>
 
 ## 🎯 Skills
@@ -87,7 +87,7 @@
 </p>
   
 <div align="center">
-<!-- ![GitHub metrics](https://metrics.lecoq.io/chrop01)-->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/tarcmaupe)-->
   
 ![GIF](https://raw.githubusercontent.com/tarcmaupe/tarcmaupe/output/github-contribution-grid-snake.svg)
   
