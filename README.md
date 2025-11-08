@@ -26,4 +26,4 @@ I build and coordinate secure, large-scale government IT systems. Currently tran
 
 
 ## 📈 GitHub Stats
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marctaupe&show_icons=true&theme=transparent)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcmaupe&show_icons=true&theme=transparent)
